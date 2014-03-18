@@ -22,7 +22,9 @@ controller中暂时没有session验证，有需要的可以自己加入
 </script>
 
 3.配置好ueditor目录下的ueditor.config.js的参数
+
 4.实现controller，对上传模块的处理（见controller中的ue.go，ue.go中一些存储目录和网址信息需要根据自身情况填写）
+
 5.实现路由（这里因为是基于beego的，路由信息在routers下的router.go中）
 
 欢迎交流！
